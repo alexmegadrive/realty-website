@@ -1,5 +1,5 @@
 # Custom layout of catalog and filters for Real Estate Agency
-Open in broeser - https://alexmegadrive.github.io/realty-website
+Open in browser - https://alexmegadrive.github.io/realty-website
 
 - Custom toggles and checkboxes layout
 - Widget blocks show/hide behaviour on click
