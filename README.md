@@ -1,11 +1,8 @@
-# realty-website
-Адаптивный интерфейс* с кастомными элементами для агентства недвижимости
+# Custom layout of catalog and filters for Real Estate Agency
 
-- Реализованы кастомные тогглы и чекбоксы путем накладок поверх стандартных элементов, видимость которых отключена
-- Элементы в блоке "Близость к метро" работают как чекбоксы, и сбрасываются при нажатии на кнопку "Любое расстояние", и наоборот, опция "Любое расстояние" сбрасывается при нажатии на другие опции
-- Блоки виджетов скрываются при нажатии
-- Кнопка "Показать дополнительные опции" показывает/скрывает спрятанные варианты, и меняет свой текст в зависимости от действия
-- Сброс фильтров работает через кнопку "Сбросить фильтры"
-- Реализована адаптивность через медиа-запросы под несколько форматов отображения. В мобильной версии фильтр скрывается и открывается в виде бургер-меню при нажатии на иконку
+- Custom toggles and checkboxes layout
+- Widget blocks show/hide behaviour on click
+- Reset filters works via the "Reset filters" button
+- Implemented adaptability through media queries for several display formats. In the mobile version, filter is implemented as a burger-menu
 
-*интерфейс фильтра не фильтрует объекты недвижимости, и служит для демонстрации
+*the filter does not actually filters any data, and serves for interface demonstration
